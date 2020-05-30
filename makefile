@@ -5,7 +5,6 @@ build:
 	mkdir public
 	git worktree prune
 	rm -rf .git/worktrees/public/
-	git worktree add -B master public origin/master
 	rm -rf public/*
 	hugo
 
@@ -25,7 +24,6 @@ init:
 	git commit -m "first commit"
 	git remote add origin ${GITREPO}
 	git push -u origin master
-	git checkout master
 	git rm README.md
 	git add ./*
 	echo "public" > .gitignore
