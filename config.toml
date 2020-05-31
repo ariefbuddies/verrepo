@@ -2,7 +2,7 @@ baseurl                  = "https://justme.now.sh"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "Call me ariefB"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -34,8 +34,8 @@ pygmentsCodefences       = true
     text = "portfolio"
 
 [[params.mainMenu]]
-    link = "about"
+    link = "tentang dia"
     text = "who is ariefB?"
 
 [imaging]
-    quality = 75
+    quality = 25
