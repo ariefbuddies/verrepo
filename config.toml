@@ -34,8 +34,8 @@ pygmentsCodefences       = true
     text = "portfolio"
 
 [[params.mainMenu]]
-    link = "tentang dia"
+    link = "about"
     text = "who is ariefB?"
 
 [imaging]
-    quality = 25
+    quality = 10
