@@ -18,9 +18,9 @@
 
         {{ else }}
         {{ range .Site.Sections }}
-            <a href="{{.RelPermalink}}" class="big-link">
+            <a href="{{.RelPermalink}}" class="big-link"><b>
                 {{.Title | markdownify}}
-            </a>
+            </b></a>
         {{ end }}
         {{ end }}
 
