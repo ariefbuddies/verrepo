@@ -23,19 +23,19 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "posts"
-    text = "posts"
+    text = "Posts"
 
 [[params.mainMenu]]
     link = "gallery"
-    text = "gallery"
+    text = "Gallery"
 
 [[params.mainMenu]]
     link = "portfolio"
-    text = "portfolio"
+    text = "Portfolio"
 
 [[params.mainMenu]]
     link = "about"
-    text = "who is ariefB?"
+    text = "Who is ariefB?"
 
 [imaging]
     quality = 10
