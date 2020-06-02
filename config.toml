@@ -35,6 +35,10 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "sewa-motor-jogja"
+    text = "Sewa Motor Jogja?"
+
+[[params.mainMenu]]
+    link = "about"
     text = "Who is ariefB?"
 
 [imaging]
