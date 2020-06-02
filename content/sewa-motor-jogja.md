@@ -9,4 +9,4 @@ url = "/sewa-motor-jogja"
 ![](/uploads/fjimg_20191221_104723_1590363216544.jpg)
 
 ***
-->Sewa Motor Jogja<-
+<center>Sewa Motor Jogja</center>
