@@ -1,0 +1,19 @@
+---
+label: Jasa
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: url
+  label: url
+- type: text
+  name: maxWidth
+  label: maxWidth
+- type: boolean
+  name: clickablePhotos
+  label: clickablePhotos
