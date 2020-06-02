@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: clickablePhotos
   label: clickablePhotos
+pages:
+- content/sewa-motor-jogja.md
