@@ -39,7 +39,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "Who is ariefB?"
+    text = "Tentang Kita"
 
 [imaging]
     quality = 10
