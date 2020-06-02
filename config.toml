@@ -34,7 +34,7 @@ pygmentsCodefences       = true
     text = "Portfolio"
 
 [[params.mainMenu]]
-    link = "about"
+    link = "sewa-motor-jogja"
     text = "Who is ariefB?"
 
 [imaging]
