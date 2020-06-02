@@ -1,6 +1,5 @@
 +++
 clickablePhotos = false
-draft = true
 maxWidth = ""
 title = "Sewa Motor Jogja"
 type = ""
