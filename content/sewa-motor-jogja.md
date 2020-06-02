@@ -6,6 +6,8 @@ type = ""
 url = "/sewa-motor-jogja"
 
 +++
-    <p align="center">Menyewakan motor jogja</p>
+![](/uploads/fjimg_20191221_104723_1590363216544.jpg)
 
-Ga pake mahal
+***
+
+\->Sewa Motor Jogja<-
